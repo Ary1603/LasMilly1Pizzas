@@ -1,0 +1,13 @@
+C:\Users\ary_0\Documents\UVM\6_Semestre\Programacion_movil\Programas\lamilyunaPizza\lamilyunaPizza\bin\Debug\lamilyunaPizza.exe.config
+C:\Users\ary_0\Documents\UVM\6_Semestre\Programacion_movil\Programas\lamilyunaPizza\lamilyunaPizza\bin\Debug\lamilyunaPizza.exe
+C:\Users\ary_0\Documents\UVM\6_Semestre\Programacion_movil\Programas\lamilyunaPizza\lamilyunaPizza\bin\Debug\lamilyunaPizza.pdb
+C:\Users\ary_0\Documents\UVM\6_Semestre\Programacion_movil\Programas\lamilyunaPizza\lamilyunaPizza\obj\Debug\lamilyunaPizza.csprojAssemblyReference.cache
+C:\Users\ary_0\Documents\UVM\6_Semestre\Programacion_movil\Programas\lamilyunaPizza\lamilyunaPizza\obj\Debug\lamilyunaPizza.Inicio_P.resources
+C:\Users\ary_0\Documents\UVM\6_Semestre\Programacion_movil\Programas\lamilyunaPizza\lamilyunaPizza\obj\Debug\lamilyunaPizza.MenuP.resources
+C:\Users\ary_0\Documents\UVM\6_Semestre\Programacion_movil\Programas\lamilyunaPizza\lamilyunaPizza\obj\Debug\lamilyunaPizza.Properties.Resources.resources
+C:\Users\ary_0\Documents\UVM\6_Semestre\Programacion_movil\Programas\lamilyunaPizza\lamilyunaPizza\obj\Debug\lamilyunaPizza.csproj.GenerateResource.cache
+C:\Users\ary_0\Documents\UVM\6_Semestre\Programacion_movil\Programas\lamilyunaPizza\lamilyunaPizza\obj\Debug\lamilyunaPizza.csproj.CoreCompileInputs.cache
+C:\Users\ary_0\Documents\UVM\6_Semestre\Programacion_movil\Programas\lamilyunaPizza\lamilyunaPizza\obj\Debug\lamilyunaPizza.exe
+C:\Users\ary_0\Documents\UVM\6_Semestre\Programacion_movil\Programas\lamilyunaPizza\lamilyunaPizza\obj\Debug\lamilyunaPizza.pdb
+C:\Users\ary_0\Documents\UVM\6_Semestre\Programacion_movil\Programas\lamilyunaPizza\lamilyunaPizza\obj\Debug\lamilyunaPizza.menuBP.resources
+C:\Users\ary_0\Documents\UVM\6_Semestre\Programacion_movil\Programas\lamilyunaPizza\lamilyunaPizza\obj\Debug\lamilyunaPizza.pizzeriaInfo.resources
